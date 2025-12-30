@@ -1,2 +1,2 @@
-# landing page
-primeiro projeto feito com HTML e CSS
+# Landing page
+primeiro projeto inicial
